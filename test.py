@@ -1,2 +1,2 @@
-in = input("Enter String")
-print(in)
+inp = input("Enter String")
+print(inp)
